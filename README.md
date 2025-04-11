@@ -2,7 +2,7 @@
 This is going to be the inicial repository for the learning path, where we are going to learn from the essentials to cloud computing.<br>
 important links: 
 <li>
-<ul>[Study guide](GCPStudyGuideMy.pdf)</ul>
+<ul>[Study guide](/GCPStudyGuideMy.pdf)</ul>
 <ul></ul>
 <ul></ul>
 <ul></ul>
