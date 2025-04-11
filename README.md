@@ -2,11 +2,12 @@
 This is going to be the inicial repository for the learning path, where we are going to learn from the essentials to cloud computing.<br>
 important links: <br>
 
-<ul>
-<li>[Study guide](https://github.com/SmoshCH/GCP/blob/main/GCPStudyGuideMy.pdf)</li><br>
-<li></li>
-<li></li>
-</ul>
+[Study guide](https://github.com/SmoshCH/GCP/blob/main/GCPStudyGuideMy.pdf)<br>
+
+# ! 
+
+(to do add more links)
+-------------------------
 
 ------------------------------------------
 
