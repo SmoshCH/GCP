@@ -10,8 +10,8 @@ important links: <br>
 
 # Essentials
 Agile/Scrum (Using jira, for handling workflows)<br>
-pc essentials (operating systems, bash cmd, windows admin, windows server)<br>
-networking / (ethernet, router, swicht, Apache, dns, proxy, firewall. etc)<br>
+Pc essentials (operating systems, bash cmd, windows admin, windows server)<br>
+Networking / (ethernet, router, swicht, Apache, dns, proxy, firewall. etc)<br>
 
 # to sort<br>
 -------------
