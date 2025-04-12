@@ -3,8 +3,9 @@ This is going to be the inicial repository for the learning path, where we are g
 important links: <br>
 
 [Study guide](https://github.com/SmoshCH/GCP/blob/main/GCPStudyGuideMy.pdf)<br>
+[Leader certification](https://www.youtube.com/watch?v=cbcd6-m8sHg&ab_channel=freeCodeCamp.org)<br>
+[Associate Engineer](https://www.youtube.com/watch?v=jpno8FSqpc8&ab_channel=freeCodeCamp.org)<br>
 
-# ! 
 
 (to do add more links)
 -------------------------
