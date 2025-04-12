@@ -6,15 +6,11 @@ important links: <br>
 [Leader certification](https://www.youtube.com/watch?v=cbcd6-m8sHg&ab_channel=freeCodeCamp.org)<br>
 [Associate Engineer](https://www.youtube.com/watch?v=jpno8FSqpc8&ab_channel=freeCodeCamp.org)<br>
 
-
-(to do add more links)
--------------------------
-
 ------------------------------------------
 
 # Essentials
 Agile/Scrum (Using jira, for handling workflows)<br>
-pc essentials (operating systems, cmd, powershell, bash, windows admin, windows server)<br>
+pc essentials (operating systems, bash cmd, windows admin, windows server)<br>
 networking / (ethernet, router, swicht, Apache, dns, proxy, firewall. etc)<br>
 
 # to sort<br>
