@@ -13,7 +13,6 @@ Agile/Scrum (Using jira, for handling workflows)<br>
 Pc essentials (operating systems, bash cmd, windows admin, windows server)<br>
 Networking / (ethernet, router, swicht, Apache, dns, proxy, firewall. etc)<br>
 
-# to sort<br>
 -------------
 # Repositories 
 CI/CD <br>
