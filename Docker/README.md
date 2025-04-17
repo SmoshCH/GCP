@@ -9,16 +9,15 @@ Es una plataforma que permite crear, ejecutar y gestionar aplicaciones en conten
 Is a Platform that allows to create, execute and manage applications in containers.<br>
 
 ## Links importantes 
-[instalar docker](https://www.youtube.com/watch?v=jiJFDwmWrWk&ab_channel=UskoKruM2010)<br> 
-[docker desktop](https://www.docker.com/products/docker-desktop/)<br>
-[instalacion](https://docs-docker-com.translate.goog/desktop/setup/install/windows-install/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc)<br>
-[aprender docker](https://www.youtube.com/watch?v=4Dko5W96WHg&ab_channel=HolaMundo)<br>
-[wls for windows](https://learn.microsoft.com/es-es/windows/wsl/install)<br>
-[docker hub](https://hub.docker.com/)<br>
+[Instalar docker](https://www.youtube.com/watch?v=jiJFDwmWrWk&ab_channel=UskoKruM2010)<br> 
+[Docker desktop](https://www.docker.com/products/docker-desktop/)<br>
+[Instalacion](https://docs-docker-com.translate.goog/desktop/setup/install/windows-install/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc)<br>
+[Aprender docker](https://www.youtube.com/watch?v=4Dko5W96WHg&ab_channel=HolaMundo)<br>
+[WLS for windows](https://learn.microsoft.com/es-es/windows/wsl/install)<br>
+[Docker hub](https://hub.docker.com/)<br>
 
 
-
-instalar docker desktop 
+## Instalación de docker desktop en windows
 -tener virtualizacion de bios activada 
 -instalar wls 
 ejecutar como administrador powershell (azul) > wsl --install
