@@ -29,20 +29,21 @@ Is a Platform that allows to create, execute and manage applications in containe
 ## Docker cheatsheet
 
 ### Docker comandos rápidos
-| Comando                        | Descripción                                  | 
-|--------------------------------|----------------------------------------------|
-| `docker images -a`             | Muestra la versión más corta.                |
-| `docker pull mongo`            | Descarga imagen.                             | 
-| `docker image rm mongo1`       | Elimina imagen llamada mongo1                | 
-| `docker create --name m mongo` | Crea contenedor con nombre m y imagen mongo  |
-| `docker rm m`                  | Elimina contenedor llamado m                 | 
-| `docker start m`               | Inicia contenedor m                          |
-| `docker down m`                | Apaga contenedor m                           |
-| `docker create --name m mongo` | Crea contenedor con nombre m y imagen mongo  |
-| `docker run --name m -p27017:27017 -d mongo` | Crea contenedor nombre y inicia  | 
-| `docker start m`               | Inicia contenedor m                          |
-| `docker down m`                | Apaga contenedor m                           |
-
+| Comando                        | Descripción                                   | 
+|--------------------------------|-----------------------------------------------|
+| `docker images -a`             | Muestra la versión más corta.                 |
+| `docker pull mongo`            | Descarga imagen.                              | 
+| `docker image rm mongo1`       | Elimina imagen llamada mongo1.                | 
+| `docker create --name m mongo` | Crea contenedor con nombre m y imagen mongo.  |
+| `docker rm m`                  | Elimina contenedor llamado m.                 | 
+| `docker start m`               | Inicia contenedor m.                          |
+| `docker down m`                | Apaga contenedor m.                           |
+| `docker create --name m mongo` | Crea contenedor con nombre m y imagen mongo.  |
+| `docker run --name m -p27017:27017 -d mongo` | Crea contenedor nombra e inicia.  | 
+| `docker network ls`            | Lista las redes creadas.                      |
+| `docker network create mired`  | Crea red mired.                               |
+| `docker network rm mired`      | Elimina red mired.                            |
+| `docker build -t miapp:1`      | Crea contenedor desde documento y lo llama miapp.|
 
 
 
