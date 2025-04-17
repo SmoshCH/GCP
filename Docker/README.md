@@ -1,5 +1,13 @@
 <img src="image.png" alt="Docker" style="display: block; margin: 0 auto;"> <br>
-docker 
+
+# Docker 
+
+## Que es Docker? 
+Es una plataforma que permite crear, ejecutar y gestionar aplicaciones en contendores.<br>
+
+## What is Docker?
+Is a Platform that allows to create, execute and manage applications in containers.<br>
+
 instalar docker https://www.youtube.com/watch?v=jiJFDwmWrWk&ab_channel=UskoKruM2010 
 docker desktop https://www.docker.com/products/docker-desktop/
 instalacion https://docs-docker-com.translate.goog/desktop/setup/install/windows-install/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc
@@ -7,11 +15,7 @@ aprender docker https://www.youtube.com/watch?v=4Dko5W96WHg&ab_channel=HolaMundo
 wls for windows https://learn.microsoft.com/es-es/windows/wsl/install
 docker hub https://hub.docker.com/
 
-Que es Docker? 
-Es una plataforma que permite crear, ejecutar y gestionar aplicaciones en contendores.
 
-What is Docker?
-Is a Platform that allows to create, execute and manage applications in containers.
 
 instalar docker desktop 
 -tener virtualizacion de bios activada 
