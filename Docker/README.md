@@ -29,19 +29,27 @@ Is a Platform that allows to create, execute and manage applications in containe
 ## Docker cheatsheet
 
 ### Docker comandos rápidos
-| Comando                    | Descripción                                  | 
-|----------------------------|----------------------------------------------|
-| `git init`                 | Inicia git en la carpeta                     |
-| `git status `              | Verifica estado del documento                | 
-| `git add .`                | Agrega cambios a staging area                | 
-| `git commit -m "Mensaje" ` | Agrega comentario y lo guarda en repo local  |
-| `git push origin main `    | Envia cambios a repo remoto en rama main     | 
-| `git pull `                | Trae cambios de repo remoto a repo local     |
-| `git clone (pegar link sh)`| Crea una copia local de un repositorio remoto|
+| Comando                        | Descripción                                  | 
+|--------------------------------|----------------------------------------------|
+| `docker images -a`             | Muestra la versión más corta.                |
+| `docker pull mongo`            | Descarga imagen.                             | 
+| `docker image rm mongo1`       | Elimina imagen llamada mongo1                | 
+| `docker create --name m mongo` | Crea contenedor con nombre m y imagen mongo  |
+| `docker rm m`                  | Elimina contenedor llamado m                 | 
+| `docker start m`               | Inicia contenedor m                          |
+| `docker down m`                | Apaga contenedor m                           |
+| `docker create --name m mongo` | Crea contenedor con nombre m y imagen mongo  |
+| `docker run --name m -p27017:27017 -d mongo` | Crea contenedor nombre y inicia  | 
+| `docker start m`               | Inicia contenedor m                          |
+| `docker down m`                | Apaga contenedor m                           |
+
+
+
+
 
 
 docker version > muestra la version de dockert
-docker --version > muestra la version mas corta 
+docker --version > Muestra la versión mas corta 
 docker images > muestra imagenes descargadas
 docker pull node > descarga imagen  
 docker pull node:18 (imagen mas version 18)
