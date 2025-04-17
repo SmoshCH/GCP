@@ -143,3 +143,6 @@ volumes:
 	mongo-data: 
 
 ```
+
+mejorar con 
+https://github.com/nschurmann/mongoapp-curso-docker
