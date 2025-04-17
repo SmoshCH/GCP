@@ -19,8 +19,9 @@ Is a Platform that allows to create, execute and manage applications in containe
 
 ## Instalación de docker desktop en windows
 - Tener virtualizacion de bios activada [(video)](https://www.youtube.com/watch?v=tgH4_jkiMbc&ab_channel=EmuladoresdeAndroid) <br>
-- Instalar [WLS](https://learn.microsoft.com/es-es/windows/wsl/install) <br>
-ejecutar como administrador powershell (azul) > wsl --install
+- Instalar WLS [link](https://learn.microsoft.com/es-es/windows/wsl/install) <br>
+- Ejecutar como administrador powershell (azul)
+ > wsl --install
 -iniciar ubuntu shell > crear usuario > crear contraseña
 -instalar instalador de docker https://docs-docker-com.translate.goog/desktop/setup/install/windows-install/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc
 -fin
