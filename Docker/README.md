@@ -26,7 +26,20 @@ Is a Platform that allows to create, execute and manage applications in containe
 - Instalar instalador de docker [link](https://docs-docker-com.translate.goog/desktop/setup/install/windows-install/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc) <br>
 - Fin. <br>
 
-## Comando de Docker 
+## Docker cheatsheet
+
+### Docker comandos rápidos
+| Comando                    | Descripción                                  | 
+|----------------------------|----------------------------------------------|
+| `git init`                 | Inicia git en la carpeta                     |
+| `git status `              | Verifica estado del documento                | 
+| `git add .`                | Agrega cambios a staging area                | 
+| `git commit -m "Mensaje" ` | Agrega comentario y lo guarda en repo local  |
+| `git push origin main `    | Envia cambios a repo remoto en rama main     | 
+| `git pull `                | Trae cambios de repo remoto a repo local     |
+| `git clone (pegar link sh)`| Crea una copia local de un repositorio remoto|
+
+
 docker version > muestra la version de dockert
 docker --version > muestra la version mas corta 
 docker images > muestra imagenes descargadas
