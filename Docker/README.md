@@ -43,12 +43,11 @@ Is a Platform that allows to create, execute and manage applications in containe
 | `docker network ls`            | Lista las redes creadas.                      |
 | `docker network create mired`  | Crea red mired.                               |
 | `docker network rm mired`      | Elimina red mired.                            |
-| `docker build -t miapp:1`      | Crea contenedor desde documento y lo llama miapp.|
+| `docker build -t miapp:1`      | Crea contenedor desde documento y lo nombra miapp.|
 
+### Lista de comandos de Docker 
 
-
-
-
+```Docker
 docker version > muestra la version de dockert
 docker --version > Muestra la versión mas corta 
 docker images > muestra imagenes descargadas
@@ -145,4 +144,4 @@ en archivo de  docker compose
 volumes: 
 	mongo-data: 
 
-41:23
+```
