@@ -18,7 +18,7 @@ Is a Platform that allows to create, execute and manage applications in containe
 
 
 ## Instalación de docker desktop en windows
--tener virtualizacion de bios activada 
+- tener virtualizacion de bios activada <br>
 -instalar wls 
 ejecutar como administrador powershell (azul) > wsl --install
 -iniciar ubuntu shell > crear usuario > crear contraseña
