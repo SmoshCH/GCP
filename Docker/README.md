@@ -21,12 +21,12 @@ Is a Platform that allows to create, execute and manage applications in containe
 - Tener virtualizacion de bios activada [(video)](https://www.youtube.com/watch?v=tgH4_jkiMbc&ab_channel=EmuladoresdeAndroid) <br>
 - Instalar WLS [link](https://learn.microsoft.com/es-es/windows/wsl/install) <br>
 - Ejecutar como administrador powershell (azul)
- > wsl --install <br>
--iniciar ubuntu shell > crear usuario > crear contraseña
--instalar instalador de docker https://docs-docker-com.translate.goog/desktop/setup/install/windows-install/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc
--fin
+- Ejecutar en consola de powershel > wsl --install <br>
+- Iniciar ubuntu shell > crear usuario > crear contraseña <br>
+- Instalar instalador de docker [link](https://docs-docker-com.translate.goog/desktop/setup/install/windows-install/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc) <br>
+- Fin. <br>
 
-cli de docker 
+## Comando de Docker 
 docker version > muestra la version de dockert
 docker --version > muestra la version mas corta 
 docker images > muestra imagenes descargadas
