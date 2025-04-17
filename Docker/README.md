@@ -1,4 +1,4 @@
-![alt text](image.png)
+<img src="image.png" alt="Docker" style="display: block; margin: 0 auto;"> <br>
 docker 
 instalar docker https://www.youtube.com/watch?v=jiJFDwmWrWk&ab_channel=UskoKruM2010 
 docker desktop https://www.docker.com/products/docker-desktop/
