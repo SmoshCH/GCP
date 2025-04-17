@@ -48,37 +48,39 @@ Is a Platform that allows to create, execute and manage applications in containe
 ### Lista de comandos de Docker 
 
 ```Docker
-docker version > muestra la version de dockert
-docker --version > Muestra la versión mas corta 
-docker images > muestra imagenes descargadas
-docker pull node > descarga imagen  
-docker pull node:18 (imagen mas version 18)
-docker image rm nombreimage > eliminar imagenes
-docker image rm node:18, node, mysql etc 
-docker create mongo > crea contenedor en base a nuestra imagen ya guardada
+docker version      > Muestra la version de docker.
+docker --version    > Muestra la versión más corta. 
+docker images       > Muestra imagenes descargadas.
+docker pull node    > Descarga imagen en ultima versión.  
+docker pull node:18 >Descarga imagen en versión 18.
+docker image rm node                > Elimina imagenes.
+docker image rm node:18, node, mysql > Elimina imagenes.  
+docker create mongo    > crea contenedor en base a nuestra imagen ya guardada.
 f0a65f01205b2bdcefbd2139fd87bbb734af9dc0a0b1755e8fd9c8a4b5d8549f (identificador de container)
-docker container create mongo > crea contenedor pero forma mas larga 
-docker start f0a65f01205b2bdcefbd2139fd87bbb734af9dc0a0b1755e8fd9c8a4b5d8549f >ejecutar contenedor 
-docker ps > verificar contenedor creado 
-f0a65f01205b (id corto del contenedor)
-docker stop f0a65f01205b > detener contenedor 
-docker ps -a > ver contenedores creados
-docker rm pensive_feynman > eliminar contenedor con id o nombre 
-docker create --name monguito mongo > nombrar contendores, con el nombre sgeguido de  el nombre de imagen 
-mapear puerto 
+docker container create mongo > crea contenedor pero escrito de forma más larga. 
+docker start f0a65f01205b2bdcefbd2139fd87bbb734af9dc0a0b1755e8fd9c8a4b5d8549f > Ejecuta contenedor. 
+docker ps                       > Verificar contenedor creado. 
+docker ps -a                    > ver todos los contenedores creados.
+f0a65f01205b                    (id corto del contenedor).
+docker stop f0a65f01205b        > Detiene contenedor.
+docker rm pensive_feynman       > Elimina contenedor con id o nombre.
+docker create --name monguito mongo > crea contenedor lo nombre y usa imagen.
+mapear puerto              (definir puerto de pc y puerto de Docker.)
 docker create -p27017:27017 --name monguito mongo
--p es de publish primer puerto es de nuestra maquina y segundo de docker 
+(-p es de publish primer puerto es de nuestra máquina y segundo de docker) 
 docker create -p27017 --name monguito mongo (deja que docker decida el puerto del host, no recomendable)
-verificar servidor de mongo 
-docker logs monguito ve los logs del servidor 
-docker logs --follow monguito >sigue esuchando los puertos para ver si hay mas logs
-docker run (crea imagen, crea contenedor y lo inicia)
-docker run --name monguito -p27017:27017 -d mongo
-variables de entorno 
+verificar servidor de mongo.
+docker logs monguito            > Ve los logs del servidor de mongo.
+docker logs --follow monguito   > Esucha los puertos de mongo. 
+docker run (crea imagen, crea contenedor y lo inicia). 
+docker run --name monguito -p27017:27017 -d mongo (crea contenedor llamado monguito con puertos y lo inicia)
+(-d para que no quede escuchando los logs)
+variables de entorno. 
 docker create -p27017:27017 --name monguito -e MONGO_INITDB_ROOT_USERNAME=nico -e MONGO_INITDB_ROOT_PASSWORD=password mongo
-e- es variable de entorno 
+(e- es variable de entorno) 
 
-meter app a docker 
+----------------------------------------------
+-meter app a docker
 crear archivo dockerfile 
 FROM node:18 
 
@@ -88,27 +90,23 @@ COPY . /home/app
 EXPOSE 3000
 
 CMD ["node", "/home/app/index.js"]
-
-conectar contenedores en 1 red 
+----------------------------------------------
+-conectar contenedores en 1 red 
 docker network ls > ve las redes creadas
 docker network create mired
 docker network rd mired
-
-crear imagenes en base a archivo dockerfile
-
+-crear imagenes en base a archivo dockerfile
 docker build -t miapp:1 .
--t escribir nombre de el contenedor 
-
-
-crear contendor en red 
+(-t escribir nombre de el contenedor) 
+-crear contendor en red 
 docker create -p27017:27017 --name monguito --network mired -e MONGO_INITDB_ROOT_USERNAME=nico -e MONGO_INITDB_ROOT_PASSWORD=password mongo
 
 crear imagen
 crear red
 crear contenedor >asignar puertos >asignar nombre >variables de entorno >especificar red >indicar imagen:etiqueta 
-automatizar con docker compose
 
-docker compose
+----------------------------------------------
+automatizar con docker compose
 crear documento con 
 docker-compose.yml 
 
@@ -133,7 +131,7 @@ services:
 docker compose up > inicia docker compose el documento
 control c detine docker compose 
 docker compose down > elimina todos los archivos creados
-
+----------------------------------------------
 volumenes 
 no eliminan la data de ellos 
 en archivo de  docker compose 
