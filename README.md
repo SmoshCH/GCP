@@ -13,14 +13,14 @@ important links: <br>
 
 # Essentials
 Agile/Scrum (Using jira, for handling workflows)<br>
-Pc essentials (operating systems, bash cmd, windows admin, windows server)<br>
+[PC Essentials](/Links/PC%20Essentials/README.md) (operating systems, bash cmd, windows admin, windows server)<br>
 Networking / (ethernet, router, swicht, Apache, dns, proxy, firewall. etc)<br>
 
 -------------
 # Repositories 
 CI/CD <br>
 Github Actions<br>
-[Docker](/Docker/README.md)<br>
+[Docker](/Links/Docker/README.md)<br>
 Markdown / <br>
 GitHub / (Markup language)<br>
 Git    /  (Git Bash)<br>
