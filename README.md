@@ -3,7 +3,7 @@ This is going to be the inicial repository for the learning path, where we are g
 important links: <br>
 
 [Google Study guide](/Links/GCPStudyGuideMy.md)<br>
-[Study Guide](/studyguide.md)<br>
+[Study Guide](/Links/studyguide.md)<br>
 [Leader certification](https://www.youtube.com/watch?v=cbcd6-m8sHg&ab_channel=freeCodeCamp.org)<br>
 [Associate Engineer](https://www.youtube.com/watch?v=jpno8FSqpc8&ab_channel=freeCodeCamp.org)<br>
 
