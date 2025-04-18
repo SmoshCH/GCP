@@ -1,3 +1,5 @@
+# Study Guide
+
 [Programming](https://programiz.com
 )<br>
 [Docker](https://www.youtube.com/watch?v=4Dko5W96WHg)<br> 
@@ -6,7 +8,7 @@
 [APIs](https://www.youtube.com/watch?v=-mN3VyJuCjM)<br> 
 [Linux commands](https://www.youtube.com/watch?v=6WatcfENsOU)<br> 
 [Windows group policies](https://www.youtube.com/watch?v=4R-B40beOAQ)<br> 
-[SSH](https://www.youtube.com/results?search_query=learn+ssh+in+6+minutes+-+beginners+guide+to+ssh+tutorial) vs [RDP](https://www.youtube.com/watch?v=zRcj84wzCq8)<br> 
+[SSH](https://www.youtube.com/watch?v=v45p_kJV9i4&ab_channel=CodeWithBubb) vs [RDP](https://www.youtube.com/watch?v=zRcj84wzCq8)<br> 
 TCP vs UDP<br>
 VPN technologies<br>
 How ip addresses work <br>
