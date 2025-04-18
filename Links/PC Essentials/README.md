@@ -1,4 +1,4 @@
-<img src="imagen.png" alt="imagen" style="display: block; margin: 0 auto;"> <br>
+<img src="/Links/PC Essentials/LinksPCEssentials/imagen.png" alt="imagen" style="display: block; margin: 0 auto;"> <br>
 
 # PC Essentials  
 Aprenderemos las bases de la tecnologia empezando desde cero. <br>
