@@ -15,43 +15,43 @@
 ● Serverless offerings in Google Cloud Platform (PaaS) e.g AppEngine, CloudFunctions<br>
 
 # Resources:
-- Linux:
-[Introduction to Linux] https://www.digitalocean.com/community/tutorials/an-introduction-to-linux-basics
-[Linux commands] https://www.digitalocean.com/community/tutorials/linux-commands
-[Linux filesystem structure] https://www.linuxfoundation.org/blog/blog/classic-sysadmin-the-linux-filesystem-explained
-[Linux file permissions] https://www.redhat.com/sysadmin/linux-file-permissions-explained
-[Managing users in Linux] https://www.freecodecamp.org/news/how-to-manage-users-in-linux/
-[Networking commands] https://www.youtube.com/watch?v=rurs7cdT5cc
-- Networking:
+- Linux:<br>
+[Introduction to Linux] https://www.digitalocean.com/community/tutorials/an-introduction-to-linux-basics<br>
+[Linux commands] https://www.digitalocean.com/community/tutorials/linux-commands<br>
+[Linux filesystem structure] https://www.linuxfoundation.org/blog/blog/classic-sysadmin-the-linux-filesystem-explained<br>
+[Linux file permissions] https://www.redhat.com/sysadmin/linux-file-permissions-explained<br>
+[Managing users in Linux] https://www.freecodecamp.org/news/how-to-manage-users-in-linux/<br>
+[Networking commands] https://www.youtube.com/watch?v=rurs7cdT5cc<br>
+- Networking:<br>
 [IP addresses and subnetting]
-https://www.cisco.com/c/en/us/support/docs/ip/routing-information-protocol-rip/13788-3.html
-[OSI Model] https://en.wikipedia.org/wiki/OSI_model
-[TCP/IP Model] https://www.geeksforgeeks.org/tcp-ip-model/
-[Guide to Network Troubleshooting in Linux ]https://linuxblog.io/guide-to-network-troubleshooting-in-linux/
-[LAN, PAN, WAN[ https://www.geeksforgeeks.org/types-of-area-networks-lan-man-and-wan/
-- Programing:
-[Rest API] https://www.redhat.com/en/topics/api/what-is-a-rest-api
-[Protocol] https://www.cloudflare.com/learning/network-layer/what-is-a-protocol/
-[Version Control] https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
-[Git commands] https://git-scm.com/docs
-[GitHub] https://en.wikipedia.org/wiki/GitHub
-[Introduction to Python] https://www.python.org/about/gettingstarted/
-[What is an algorithm?] https://www.geeksforgeeks.org/introduction-to-algorithms/
-[What is a function?] https://medium.com/@ezinneanne/what-is-a-function-programming-7ff2a61dea8d
-[Global vs Local variables in Python] https://www.geeksforgeeks.org/global-local-variables-python/
-[Conditionals] https://www.w3schools.com/js/js_if_else.asp
-[Switch] https://www.w3schools.com/js/js_switch.asp
+https://www.cisco.com/c/en/us/support/docs/ip/routing-information-protocol-rip/13788-3.html<br>
+[OSI Model] https://en.wikipedia.org/wiki/OSI_model<br>
+[TCP/IP Model] https://www.geeksforgeeks.org/tcp-ip-model/<br>
+[Guide to Network Troubleshooting in Linux ]https://linuxblog.io/guide-to-network-troubleshooting-in-linux/<br>
+[LAN, PAN, WAN[ https://www.geeksforgeeks.org/types-of-area-networks-lan-man-and-wan/<br>
+- Programing:<br>
+[Rest API] https://www.redhat.com/en/topics/api/what-is-a-rest-api<br>
+[Protocol] https://www.cloudflare.com/learning/network-layer/what-is-a-protocol/<br>
+[Version Control] https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control<br>
+[Git commands] https://git-scm.com/docs<br>
+[GitHub] https://en.wikipedia.org/wiki/GitHub<br>
+[Introduction to Python] https://www.python.org/about/gettingstarted/<br>
+[What is an algorithm?] https://www.geeksforgeeks.org/introduction-to-algorithms/<br>
+[What is a function?] https://medium.com/@ezinneanne/what-is-a-function-programming-7ff2a61dea8d<br>
+[Global vs Local variables in Python] https://www.geeksforgeeks.org/global-local-variables-python/<br>
+[Conditionals] https://www.w3schools.com/js/js_if_else.asp<br>
+[Switch] https://www.w3schools.com/js/js_switch.asp<br>
 [Loops (For & While)] https://www.w3schools.com/js/js_loop_for.asp and
 https://www.w3schools.com/js/js_loop_while.asp
-[Operators] https://www.w3schools.com/js/js_operators.asp
-[Data types] https://www.w3schools.com/js/js_datatypes.asp
-- Cloud computing:
-GCP Support Hub] https://cloud.google.com/support-hub
-[IAM roles ] https://cloud.google.com/iam/docs/roles-overview
-[Resource Hierarchy] https://cloud.google.com/resource-manager/docs/cloud-platform-resource-hierarchy
-[Compute Engine VM instances] https://cloud.google.com/compute/docs/instances
-[Google Cloud Storage overview] https://cloud.google.com/storage/docs/introduction
-[Cloud SQL overview] https://cloud.google.com/sql/docs/introduction
-[Cloud Spanner] https://cloud.google.com/spanner/docs
-[VPC Networks] https://cloud.google.com/vpc/docs/vpc
-[Cloud Firewall] https://cloud.google.com/firewall/docs/firewalls
+[Operators] https://www.w3schools.com/js/js_operators.asp<br>
+[Data types] https://www.w3schools.com/js/js_datatypes.asp<br>
+- Cloud computing:<br>
+GCP Support Hub] https://cloud.google.com/support-hub<br>
+[IAM roles ] https://cloud.google.com/iam/docs/roles-overview<br>
+[Resource Hierarchy] https://cloud.google.com/resource-manager/docs/cloud-platform-resource-hierarchy<br>
+[Compute Engine VM instances] https://cloud.google.com/compute/docs/instances<br>
+[Google Cloud Storage overview] https://cloud.google.com/storage/docs/introduction<br>
+[Cloud SQL overview] https://cloud.google.com/sql/docs/introduction<br>
+[Cloud Spanner] https://cloud.google.com/spanner/docs<br>
+[VPC Networks] https://cloud.google.com/vpc/docs/vpc<br>
+[Cloud Firewall] https://cloud.google.com/firewall/docs/firewalls<br>
