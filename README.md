@@ -2,7 +2,8 @@
 This is going to be the inicial repository for the learning path, where we are going to learn from the essentials to cloud computing.<br>
 important links: <br>
 
-[Study guide](https://github.com/SmoshCH/GCP/blob/main/GCPStudyGuideMy.pdf)<br>
+[Google Study guide](https://github.com/SmoshCH/GCP/blob/main/GCPStudyGuideMy.pdf)<br>
+[studyguide](studyguide.md)
 [Leader certification](https://www.youtube.com/watch?v=cbcd6-m8sHg&ab_channel=freeCodeCamp.org)<br>
 [Associate Engineer](https://www.youtube.com/watch?v=jpno8FSqpc8&ab_channel=freeCodeCamp.org)<br>
 
