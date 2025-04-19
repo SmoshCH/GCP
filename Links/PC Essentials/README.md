@@ -5,23 +5,32 @@ Aprenderemos las bases de la tecnologia empezando desde cero. <br>
 
 ## Temas  
 [Sistemas Operativos](/Links/PC%20Essentials/LinksPCEssentials/LinksSistemasOperativos/README.md)<br> 
-[Windows](https://www.youtube.com/w)<br> 
-[Linux](https://www.youtube.com/w)<br> 
-[Virtual Machines](https://www.youtube.com/w)<br> 
+[Windows](/Links/PC%20Essentials/LinksPCEssentials/LinksSistemasOperativos/LinksWindows/README.md)<br> 
+[Linux](/Links/PC%20Essentials/LinksPCEssentials/LinksSistemasOperativos/LinksLinux/README.md)<br> 
+[VM](/Links/PC%20Essentials/LinksPCEssentials/LinksSistemasOperativos/LinksVM/README.md) (Virtual Machine)  
 
-## Windows Quick Cheatsheet
+## Quick cheatsheets
 
-### Comandos rápidos
+### Windows comandos rápidos
 | Comando                        | Descripción                                   | 
 |--------------------------------|-----------------------------------------------|
 | `docker images -a`             | Muestra la versión más corta.                 |
 | `docker pull mongo`            | Descarga imagen.                              | 
 
-## Linux Ubuntu Quick Cheatsheet
-
-### Comandos rápidos 
+### Linux comandos rápidos
 | Comando                        | Descripción                                   | 
 |--------------------------------|-----------------------------------------------|
 | `docker images -a`             | Muestra la versión más corta.                 |
 | `docker pull mongo`            | Descarga imagen.                              | 
 
+### Ubuntu comandos rápidos
+| Comando                        | Descripción                                   | 
+|--------------------------------|-----------------------------------------------|
+| `docker images -a`             | Muestra la versión más corta.                 |
+| `docker pull mongo`            | Descarga imagen.                              | 
+
+### Kali Linux comandos rápidos
+| Comando                        | Descripción                                   | 
+|--------------------------------|-----------------------------------------------|
+| `docker images -a`             | Muestra la versión más corta.                 |
+| `docker pull mongo`            | Descarga imagen.                              | 
