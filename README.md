@@ -8,13 +8,14 @@ important links: <br>
 [Associate Engineer](https://www.youtube.com/watch?v=jpno8FSqpc8&ab_channel=freeCodeCamp.org)<br>
 
 
-
 ------------------------------------------
 
 # Essentials
 Agile/Scrum (Using jira, for handling workflows)<br>
-[PC Essentials](/Links/PC%20Essentials/README.md) (operating systems, bash cmd, windows admin, windows server)<br>
-Networking / (ethernet, router, swicht, Apache, dns, proxy, firewall. etc)<br>
+[PC Essentials](/Links/PC%20Essentials/README.md) (operating systems, bash etc)<br>
+[Networking]() (ethernet, router, swicht, Apache, dns, proxy, firewall, vpn,  cli for dif systems fix errors etc)<br>
+[Virtual Machines]() () <br>
+
 
 -------------
 # Repositories 
