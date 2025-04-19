@@ -35,3 +35,14 @@ virtual machines
 | `docker pull mongo`            | Descarga imagen.                              | 
 
 etc
+
+windows
+Introduction kernel windows sistem
+Commands scripting bash cmd powershel 
+network commands
+File system
+file permission
+managing users
+windows server administration https://www.youtube.com/watch?v=SE19tTdn5ns&list=PLxTwjzMO9Zf4UPPEwPdWpvnUeV4MJiPr5&ab_channel=InfoSecPat
+windows group policies https://www.youtube.com/watch?v=4R-B40beOAQ
+virtual machines 
