@@ -1,3 +1,7 @@
+[Atrás](/README.md)
+[Inicio](/README.md) 
+[Siguiente](/Links/PC%20Essentials/README.md)
+
 # Study Guide
 
 [Programming](https://programiz.com

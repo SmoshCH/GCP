@@ -1,3 +1,7 @@
+[Atrás]()
+[Inicio]() 
+[Siguiente]()
+
 <img src="image.png" alt="imagen" style="display: block; margin: 0 auto;"> <br>
 
 # Tema 

@@ -1,3 +1,7 @@
+[Atrás](/README.md)
+[Inicio](/README.md) 
+[Siguiente](/Links/studyguide.md)
+
 # My Study Guide:
 ● Basic concepts of Linux Distros, package managers, text editors as well as CLI fundamentals, including directory navigation, file/user administration and networking troubleshooting tools. e.g chmod, ping, curl, tcpdump, ping, etc.<br>
 ● REST API and HTTP Client-Server model and Authentication Protocols<br>

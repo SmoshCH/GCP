@@ -1,3 +1,7 @@
+[Atrás](/README.md)
+[Inicio](/README.md) 
+[Siguiente](/Links/PC%20Essentials/README.md)
+
 <img src="/Links/PC Essentials/LinksPCEssentials/imagen.png" alt="imagen" style="display: block; margin: 0 auto;"> <br>
 
 # PC Essentials  

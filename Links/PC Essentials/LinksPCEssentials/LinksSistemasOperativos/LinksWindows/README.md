@@ -1,3 +1,7 @@
+[Atrás](/Links/PC%20Essentials/README.md)
+[Inicio](/README.md) 
+[Siguiente](/Links/PC%20Essentials/LinksPCEssentials/LinksSistemasOperativos/LinksLinux/README.md)
+
 <img src="image.png" alt="imagen" style="display: block; margin: 0 auto;"> <br>
 
 # Windows 
