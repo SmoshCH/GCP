@@ -1,7 +1,7 @@
 <img src="/Links/PC Essentials/LinksPCEssentials/imagen.png" alt="imagen" style="display: block; margin: 0 auto;"> <br>
 
 # PC Essentials  
-Aprenderemos las bases de la tecnologia empezando desde cero. <br>
+Aprenderemos las bases de la tecnología empezando desde cero. <br>
 
 ## Temas  
 [Sistemas Operativos](/Links/PC%20Essentials/LinksPCEssentials/LinksSistemasOperativos/README.md)<br> 
