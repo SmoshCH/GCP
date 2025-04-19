@@ -7,9 +7,10 @@
 # Sistemas operativos
 
 ### Links importantes 
-[Sistemas operativos](https://www.youtube.com/w)<br> 
+Sistemas operativos: [1](https://www.youtube.com/watch?v=26QPDBe-NB8ab_channel=CrashCourse) [2](https://www.youtube.com/watch?v=yK1uBHPdp30&ab_channel=freeCodeCamp.org) <br> 
 [Kernel]()<br>
 [Bash]()<br>
+!!!! working now!!!!!
 
 ## ¿Qué son los sistemas operativos? 
 Es el software principal que gestiona el hardware de una computadora o dispositivo y proporciona una plataforma para que funcionen otros programas.<br>
@@ -26,6 +27,8 @@ It is form by:<br>
 - Core (Kernel): Central unit, manages the hardware.
 - Shell: Interface that allows the user to comunicate with the system. 
 - Drivers: They allow the operating system to comunicate with external devices.
+
+## Tipos de Sistemas Operativos.
 
 ## ¿Qué es un kernel? 
 Es el corazón de un sistema operativo. Es el programa que se encarga de controlar todo el hardware del dispositivo y comunicarse con el software.
