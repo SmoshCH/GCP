@@ -4,7 +4,7 @@
 Aprenderemos las bases de la tecnologia empezando desde cero. <br>
 
 ## Temas  
-[Sistemas Operativos](https://www.youtube.com/w)<br> 
+[Sistemas Operativos](/Links/PC%20Essentials/LinksPCEssentials/LinksSistemasOperativos/README.md)<br> 
 [Windows](https://www.youtube.com/w)<br> 
 [Linux](https://www.youtube.com/w)<br> 
 [Virtual Machines](https://www.youtube.com/w)<br> 
