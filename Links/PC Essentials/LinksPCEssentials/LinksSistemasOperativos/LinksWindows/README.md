@@ -9,13 +9,37 @@
 ## Que es el sistema operativo Windows? 
 Es una plataforma que permite crear, ejecutar y gestionar aplicaciones en contendores.<br>
 
-windows
-Introduction kernel windows sistem
-Commands scripting bash cmd powershel 
-network commands
-File system
-file permission
-managing users
+## Que es el kernel de windows? 
+Es una plataforma que permite crear, ejecutar y gestionar aplicaciones en contendores.<br>
+
+## Como tener linux en wwindows WSL? 
+Es una plataforma que permite crear, ejecutar y gestionar aplicaciones en contendores.<br>
+
+## Que es la CLI de windows CMD POWERSHELL? 
+Es una plataforma que permite crear, ejecutar y gestionar aplicaciones en contendores.<br>
+
+## Comandos y automatizacion con CMD? 
+Es una plataforma que permite crear, ejecutar y gestionar aplicaciones en contendores.<br>
+
+# Comandos y automatizacion con Powershell? 
+Es una plataforma que permite crear, ejecutar y gestionar aplicaciones en contendores.<br>
+
+# Comandos de red en windows
+
+# Sistema de carpetas y permisos 
+
+# Sistema de usuarios, permisos 
+
+# maquinas virtuales 
+
+# Servidores de windows 
+
+# Windows server 
+
+# politicas de grupo  
+
+
+
 windows server administration https://www.youtube.com/watch?v=SE19tTdn5ns&list=PLxTwjzMO9Zf4UPPEwPdWpvnUeV4MJiPr5&ab_channel=InfoSecPat
 windows group policies https://www.youtube.com/watch?v=4R-B40beOAQ
 virtual machines 
@@ -36,13 +60,3 @@ virtual machines
 
 etc
 
-windows
-Introduction kernel windows sistem
-Commands scripting bash cmd powershel 
-network commands
-File system
-file permission
-managing users
-windows server administration https://www.youtube.com/watch?v=SE19tTdn5ns&list=PLxTwjzMO9Zf4UPPEwPdWpvnUeV4MJiPr5&ab_channel=InfoSecPat
-windows group policies https://www.youtube.com/watch?v=4R-B40beOAQ
-virtual machines 
