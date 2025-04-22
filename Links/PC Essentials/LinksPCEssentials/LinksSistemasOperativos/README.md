@@ -8,9 +8,8 @@
 
 ### Links importantes 
 Sistemas operativos: [1](https://www.youtube.com/watch?v=26QPDBe-NB8ab_channel=CrashCourse) [2](https://www.youtube.com/watch?v=yK1uBHPdp30&ab_channel=freeCodeCamp.org) <br> 
-[Kernel]()<br>
-[Bash]()<br>
-!!!! working now!!!!!
+Kernel: [1](https://www.youtube.com/watch?v=5S-tTDeFZfY&ab_channel=Techquickie) [2](https://www.youtube.com/watch?v=IvGdY6luTtU&ab_channel=SavvyNik)<br>
+Bash: [1](https://www.youtube.com/watch?v=I4EWvMFj37g&ab_channel=Fireship) [2](https://www.youtube.com/watch?v=1YxHXBsVNGQ&ab_channel=ProgramadorX)<br> 
 
 ## ¿Qué son los sistemas operativos? 
 Es el software principal que gestiona el hardware de una computadora o dispositivo y proporciona una plataforma para que funcionen otros programas.<br>
