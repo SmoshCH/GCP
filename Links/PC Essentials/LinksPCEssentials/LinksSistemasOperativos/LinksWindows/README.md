@@ -38,6 +38,7 @@ Es una plataforma que permite crear, ejecutar y gestionar aplicaciones en conten
 
 # politicas de grupo  
 
+!!wokring!! 
 
 
 windows server administration https://www.youtube.com/watch?v=SE19tTdn5ns&list=PLxTwjzMO9Zf4UPPEwPdWpvnUeV4MJiPr5&ab_channel=InfoSecPat
